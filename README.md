@@ -7,7 +7,7 @@ Computer Science student
 Learning to code in several languages: Python -Intermediate Html - Beginner CSS - Beginner JavaScript - Beginner
 
 * 🌍  I'm based in the United Kingdom
-* 🚀  I'm currently working on [G.A.I.A ChatBot in python](github.com/george-python/G.A.I.A-chatbot-)
+* 🚀  I'm currently working on [G.A.I.A ChatBot in python]([github.com/george-python/G.A.I.A-chatbot-](https://github.com/george-python/G.A.I.A-chatbot-))
 * 🧠  I'm learning python and web developent
 * 🤝  I'm open to collaborating on python projects
 
