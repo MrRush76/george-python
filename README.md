@@ -7,7 +7,7 @@ Computer Science student
 Learning to code in several languages: Python -Intermediate Html - Beginner CSS - Beginner JavaScript - Beginner
 
 * 🌍  I'm based in the United Kingdom
-* 🚀  I'm currently working on [G.A.I.A ChatBot in python](google.co.uk)
+* 🚀  I'm currently working on [G.A.I.A ChatBot in python]()
 * 🧠  I'm learning python and web developent
 * 🤝  I'm open to collaborating on python projects
 
