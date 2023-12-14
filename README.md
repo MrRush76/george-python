@@ -1,35 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is George O'Keeffe
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm George O'Keeffe</h1>
+<h3 align="center">A passionate software developer from the United Kingdom</h3>
 
-Computer Science student
-------------------------
+- 🔭 I’m currently working on [BlackJack in Python!](https://github.com/george-python/Python-BlackJack)
 
-Learning to code in several languages: Python -Intermediate Html - Beginner CSS - Beginner JavaScript - Beginner
+- 🌱 I’m currently learning **High-Level Python**
 
-* 🌍  I'm based in the United Kingdom
-* 🚀  I'm currently working on [G.A.I.A ChatBot in python](http://github.com/george-python/G.A.I.A-chatbot-)
-* 🧠  I'm learning python and web developent
-* 🤝  I'm open to collaborating on python projects
+- Follow me on LinkedIn at [George O'Keeffe](https://www.linkedin.com/in/george-o-keeffe-498466282/)
 
-### Skills
+- 📫 How to reach me **georgeokeeffe44@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://linkedin.com/in/george o'keeffe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george o'keeffe" height="30" width="40" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/george-python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/george-python"><img src="https://github-readme-stats.vercel.app/api?username=george-python&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="george-python's GitHub stats" /></a>
-
-<a href="http://www.github.com/george-python"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=george-python&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
